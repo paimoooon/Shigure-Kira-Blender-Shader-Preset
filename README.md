@@ -19,9 +19,9 @@ Developed on Blender 3.2, and modified upon [崩坏三渲染预设——格蕾�
 
 - Fix the edges.
 - Re-organize the nodetree since it's so messy.
-- Made the shader for the metal part.
-- Fix the specular and the highlight.
-- Pull for her supply.
+- Make a shader for the metal part.
+- Fix the specular and highlight.
+- Pull for her supply since I already have 90k+ crystals.
 
 ### Acknowledgement
 

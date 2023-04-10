@@ -6,6 +6,8 @@ Developed on Blender 3.2, and modified upon [崩坏三渲染预设——格蕾�
 
 ![1681037911173](image/README/1681037911173.png)
 
+![1681127851727](image/README/1681127851727.png)
+
 ### Known Issues
 
 - The color of edges of the body skin cannot be seperated from the clothes.
@@ -13,7 +15,7 @@ Developed on Blender 3.2, and modified upon [崩坏三渲染预设——格蕾�
 - ~~Haven't made a seperate shader for the metal accessories yet.~~ (Done!)
 - ~~The specular light of her eyes and the highlight for her hair has not been made yet.~~ (Tried my best, should work now)
 - The armatures for the shadow of her hair, face, upper body, and lower body can only be seperatly rotated for now.
-- Lack of ingame model rendering as the reference.
+- The translucent effect of Seele's flower on the head is not accomplished yet.
 
 ### To Do (or Maybe Not If I Don't Have Time, Energy, and Mood)
 
@@ -21,7 +23,6 @@ Developed on Blender 3.2, and modified upon [崩坏三渲染预设——格蕾�
 - Re-organize the nodetree since it's so messy.
 - ~~Make a shader for the metal part.~~
 - ~~Fix the specular and highlight.~~
-- Pull for her supply since I already have 90k+ crystals.
 
 ### Acknowledgement
 

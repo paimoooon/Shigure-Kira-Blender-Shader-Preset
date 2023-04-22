@@ -10,12 +10,12 @@ Developed on Blender 3.2, and modified upon [崩坏三渲染预设——格蕾�
 
 ### Known Issues
 
-- The color of edges of the body skin cannot be seperated from the clothes.
+- The color of edges of the body skin cannot be seperated from the clothes. (tried festivity's Genshin outline shader, still need some working to make it matched with the Honkai's LightMap)
 - ~~Some edges are broken around the hair.~~ Now it's slightly fixed (not completely kek)
 - ~~Haven't made a seperate shader for the metal accessories yet.~~ (Done!)
 - ~~The specular light of her eyes and the highlight for her hair has not been made yet.~~ (Tried my best, should work now)
 - The armatures for the shadow of her hair, face, upper body, and lower body can only be seperatly rotated for now.
-- The translucent effect of Seele's flower on the head is not accomplished yet.
+- ~~The translucent effect of Seele's flower on the head is not accomplished yet.~~ (See the NewFace one)
 
 ### To Do (or Maybe Not If I Don't Have Time, Energy, and Mood)
 

@@ -4,9 +4,11 @@ A Shigure Kira Blender Shader Preset for a dead game.
 
 Developed on Blender 3.2, and modified upon [崩坏三渲染预设——格蕾修丨小二今天吃啥啊丨爱发电 (afdian.net)](https://afdian.net/p/7bde3106e7cf11ecab9452540025c377), making it suitable for datamined `.fbx` models instead of `.pmx` MMD ones.
 
-![1681037911173](image/README/1681037911173.png)
+![1682252521784](image/README/1682252521784.png)
 
-![1681127851727](image/README/1681127851727.png)
+![1682252532785](image/README/1682252532785.png)
+
+![1682252545410](image/README/1682252545410.png)
 
 ### Known Issues
 

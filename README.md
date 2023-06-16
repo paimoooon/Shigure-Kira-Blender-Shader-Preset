@@ -10,6 +10,8 @@ Developed on Blender 3.2, and modified upon [崩坏三渲染预设——格蕾�
 
 ![1682252545410](image/README/1682252545410.png)
 
+![1686933114002](image/README/1686933114002.png)
+
 ### Known Issues
 
 - The color of edges of the body skin cannot be seperated from the clothes. (tried festivity's Genshin outline shader, still need some working to make it matched with the Honkai's LightMap)
